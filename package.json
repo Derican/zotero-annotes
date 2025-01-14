@@ -1,6 +1,6 @@
 {
   "name": "zotero-annotes",
-  "version": "0.0.1",
+  "version": "0.0.0-1",
   "description": "Zotero Annotes",
   "config": {
     "addonName": "Zotero Annotes",
